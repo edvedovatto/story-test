@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@500&display=swap');
+body {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 500;
+    font-size: 5.9vw;
+    color:rgb(191, 191, 191);
+    background-color: #282828;
+    
+}
+
+#next-button {
+    float: right;
+    position: fixed;
+    bottom: 5vw;
+    right: 5vw;
+    padding: 4vw;
+}
+
+#back-button {
+    float: left;
+    position: fixed;
+    bottom: 5vw;
+    left: 5vw;
+    padding: 4vw;
+}
